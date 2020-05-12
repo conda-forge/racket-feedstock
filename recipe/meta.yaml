@@ -44,7 +44,7 @@ test:
 about:
   home: http://racket-lang.org/
   license: LGPL 3
-  license_file: racket/src/COPYING_LESSER.txt
+  license_file: LICENSE
   summary: The Racket Programming Language
 
 extra:
