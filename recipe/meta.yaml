@@ -1,4 +1,4 @@
-{% set version = "7.5" %}
+{% set version = "7.7" %}
 
 package:
   name: racket
@@ -7,7 +7,7 @@ package:
 source:
   fn: racket-{{ version }}.tar.gz
   url: https://github.com/racket/racket/archive/v{{ version }}.tar.gz
-  sha256: 984cb37757b76af7ca1362b0d4db08414366dc54417d3d2410b38beab44a339a
+  sha256: 8f5e772ecad959375366aa7033d4cc7155fbffeb2b172dde3c707342a0a21732
 
 build:
   number: 0
@@ -44,7 +44,7 @@ test:
 about:
   home: http://racket-lang.org/
   license: LGPL 3
-  license_file: racket/src/COPYING_LESSER.txt
+  license_file: LICENSE
   summary: The Racket Programming Language
 
 extra:
