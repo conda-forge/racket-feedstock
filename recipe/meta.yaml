@@ -1,4 +1,4 @@
-{% set version = "7.8" %}
+{% set version = "8.2" %}
 
 package:
   name: racket
@@ -7,7 +7,7 @@ package:
 source:
   fn: racket-{{ version }}.tar.gz
   url: https://github.com/racket/racket/archive/v{{ version }}.tar.gz
-  sha256: 4bb35bf37f4d8d4028880fcb3ffdec8a4c892e7618d644354feb8ef4f244e1b7
+  sha256: bf810473f4f730cf51781513855c810f9b7de42c443c51c5113b3b57f6479a4e
 
 build:
   number: 0
