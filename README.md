@@ -5,11 +5,9 @@ Home: http://racket-lang.org/
 
 Package license: LGPL 3
 
-Feedstock license: BSD-3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/racket-feedstock/blob/master/LICENSE.txt)
 
 Summary: The Racket Programming Language
-
-
 
 Current build status
 ====================
